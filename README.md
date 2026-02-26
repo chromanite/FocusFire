@@ -1,4 +1,4 @@
-# FocusFire v1.0.0 — Burp Suite Extension
+# FocusFire v2.1.0 — Alpha Release Burp Suite Extension
 
 Advanced automated penetration testing extension for Burp Suite Professional/Community. 18 passive detectors, 8 active scanners, deserialization engine, BAC tester, visual spider map, AI-assisted analysis, and multi-format export.
 
@@ -294,3 +294,4 @@ Special thanks to [@worldtreeboy](https://github.com/worldtreeboy) for contribut
 ## License
 
 MIT License
+
